@@ -1,0 +1,1 @@
+refactored code is easier to read, the reusability of code is increased, its more efficient as the code has been optimized and this code is more maintainable
